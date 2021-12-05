@@ -1,0 +1,16 @@
+[
+	{
+		"emisor": 1,
+		"receptor": 3,
+		"mensaje": "Hola Krillin",
+		"tipo": "text",
+		"hora": "12:30"
+	},
+	{
+		"emisor": 3,
+		"receptor": 1,
+		"mensaje": "Gooookkkuuu!!!!!",
+		"tipo": "text",
+		"hora": "12:30"
+	}
+]
